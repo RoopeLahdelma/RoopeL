@@ -1,0 +1,15 @@
+INSERT INTO weapons (types, buildtype, lisat)
+VALUES ('Daggers', 'Dex', 'Really short weapon class'),
+('Straight Swords', 'Dex/Str', 'Short weapon class'),
+('Greatswords', 'STR/Dex', 'Long weapon class'),
+('Ultra Greatswords', 'STR', 'Really long weapon class'),
+('Curved Swords', 'DEX/Str', 'short weapon class'),
+('Straight Swords', 'Dex/Str', 'Short weapon class'),
+('Katanas', 'DEX/Str', 'short weapon class'),
+('Curved Greatswords', 'DEX/Str', 'short weapon class'),
+('Piercing Swords', 'DEX', 'short but fast weapon class that destroys armor/shields'),
+('Axes', 'Str', 'Fast and strong weapon class'),
+('Greataxes', 'STR', 'Slow but really strong weapon class'),
+('hammers', 'Dex/Str', 'short weapon class'),
+('Great Hammers', 'STR', 'Strong weapon class'),
+('Fist & Claws', 'Dex', 'Fast and really short weapon class');
